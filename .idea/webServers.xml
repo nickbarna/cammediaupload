@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="14c0748d-a4bf-4bb8-aab7-c170ac970388" name="CAM Server" url="http://media.coastalanglermag.com">
+        <fileTransfer host="ftp.coastalanglermag.net" port="21" rootFolder="/public_html/media">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
